@@ -1,4 +1,4 @@
-# Muzli Frontend Clone (Classic Landing Page)
+# 🎨 Muzli Frontend Clone (Classic Landing Page)
 
 A simplified frontend recreation inspired by the classic Muzli landing page. This project was built for educational purposes to practice semantic HTML, CSS layout techniques, and recreating an existing interface as accurately as possible.
 
